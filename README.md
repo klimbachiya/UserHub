@@ -1,0 +1,1 @@
+# aws-serverless-graphql-api-with-dynamodb
