@@ -1,0 +1,20 @@
+{
+  "name": "aws-serverless-graphql-api-with-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1659.0",
+    "graphql": "^14.7.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "serverless-dynamodb": "^0.2.54",
+    "serverless-offline": "^13.6.0"
+  }
+}
