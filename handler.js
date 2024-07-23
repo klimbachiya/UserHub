@@ -60,7 +60,7 @@ const schema = new GraphQLSchema({
                 resolve: async (_,{id}) =>{
                     const user = await getUser(id);
                     await deleteUser(id);
-                    return user;
+                    return;
                 }
             }
         }
