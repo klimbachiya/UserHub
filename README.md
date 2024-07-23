@@ -1,6 +1,6 @@
 # aws-serverless-graphql-api-with-dynamodb
 
-GraphQL, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time. This repository helps one build User CRUD application with serverless-offline & serverless-dynamoDB that helps one test same in local. To create GraphQL APIs, npm module [graphql](https://www.npmjs.com/package/graphql) is used. This provides two important capabilities: building a type schema and serving queries against that type schema. More details on same is avaialble at https://github.com/graphql/graphql-js/
+GraphQL, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time. This repository helps one build Serverless User CRUD application with serverless-offline & serverless-dynamoDB that helps one test same in local. To create GraphQL APIs, npm module [graphql](https://www.npmjs.com/package/graphql) is used. This provides two important capabilities: building a type schema and serving queries against that type schema. More details on same is avaialble at https://github.com/graphql/graphql-js/
 
 ## Deployment
 
