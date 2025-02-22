@@ -1,5 +1,5 @@
 {
-  "name": "aws-serverless-graphql-api-with-dynamodb",
+  "name": "GraphQLServerlessHub",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
