@@ -1,5 +1,5 @@
 {
-  "name": "GraphQLServerlessHub",
+  "name": "UserHub",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
